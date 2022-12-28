@@ -1,2 +1,2 @@
 # papel
- calculadora 
+ jogo em pyton
